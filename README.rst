@@ -1,5 +1,6 @@
 LabelImg
 ========
+对图片进行标注的工具，标注数据用于对象检测模型训练。
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
